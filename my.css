@@ -1,0 +1,27 @@
+h1{
+    color:black;
+}
+body{
+    color:aquamarine;
+    background-color:lightblue;
+}
+table{
+    color:blanchedalmond;
+    background-color:rgb(75, 75, 154);
+    padding: 30px;
+    border:2px solid black;
+    margin-left: auto;
+    margin-right: auto;
+}
+input[type=radio],input[type="text"],#Gen,select,textarea,#dob{
+    border-color: aquamarine;
+    color:blueviolet;
+
+}
+#sub,#res{
+    background-color: brown;
+    color:bisque;
+}
+::placeholder{
+    color:cadetblue;
+}

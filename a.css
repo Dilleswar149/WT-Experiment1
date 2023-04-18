@@ -1,0 +1,26 @@
+.a{
+    text-decoration:none;
+    outline:none;
+    text-align:center;
+}
+a:link{
+    color:black;
+    background-color: white;
+}
+a:hover{
+    color:orange;
+    background-color: black;
+}
+a:focus{
+    color:darkviolet;
+}
+ul li{
+    margin:5;
+    padding:10;
+    text-align:start;
+    text-decoration: none;
+    border-radius:2;
+}
+body{
+    background-color: lightblue;
+}
